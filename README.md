@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h2>What Can JavaScript Do?</h2>
+<h2>Yo!</h2>
 
-<p id="demo">JavaScript can change HTML content.</p>
+<p id="demo">Welcome to my Profile,Click that button to read more.</p>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
