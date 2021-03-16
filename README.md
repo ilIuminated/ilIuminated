@@ -6,7 +6,7 @@
 
 <p id="demo">Welcome to my Profile, Click that button to read more, Im new to coding and github so if anyone wants to teach me u can do that.</p>
 
-<button type="button" onclick='document.getElementById("demo").innerHTML = "well thats the end of that goodbye"'>Click Me!</button>
+<button type="button" onclick='document.getElementById("demo").innerHTML = "well thats the end of that goodbye"'>goodbye cuz this is the end of my thing</button>
 
 </body>
 </html>
